@@ -7,7 +7,7 @@ Resources:
         - AttributeName: userId
           AttributeType: S
         - AttributeName: noteId
-          AttributeType: S
+          AttributeType: N
       KeySchema:
         - AttributeName: userId
           KeyType: HASH
