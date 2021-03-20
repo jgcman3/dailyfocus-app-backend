@@ -1,5 +1,5 @@
 
-![blockdiagram](http://git.kdiwin.com:7990/projects/MICP/repos/functions/raw/images/concepts.png?at=refs%2Fheads%2Fkd-pages)
+![blockdiagram](https://github.com/jgcman3/dailyfocus-app-backend/blob/master/images/dailyFocusLogo.png?raw=true)
 
 <br>
 
