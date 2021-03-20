@@ -22,7 +22,7 @@
 - 역활 2 : 진행한 mision 들을 보여준다.  
 
 링크
-- 설명 링크 : ([처리 블로그](http://jgcman3.blogspot.com/2021/03/serverless-dailyfocus.html))
+- 설명 링크 : ([처리 블로그](http://jgcman3.blogspot.com/2021/03/dailyfocus-frontend.html))
 - Application : ([http://kd-sp3-dailyfocus.s3-website.ap-northeast-2.amazonaws.com](http://kd-sp3-dailyfocus.s3-website.ap-northeast-2.amazonaws.com/))
 - Github : ([https://github.com/jgcman3/dailyfocus-app-backend](https://github.com/jgcman3/dailyfocus-app-backend))
 
